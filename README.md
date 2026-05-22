@@ -136,13 +136,13 @@ The backend includes models for these main tables:
 
 6. Open the API documentation:
 
-   '''text
+   '''
    http://127.0.0.1:8000/docs
    '''
 
 ## Project Structure
 
-'''text
+'''
 backend/
   app/
     dependencies/   Authentication and role dependencies
